@@ -1,5 +1,5 @@
-langchain,
-langchain-core,
+langchain
+langchain-core
 langchain-groq
 pillow
 python-dotenv
