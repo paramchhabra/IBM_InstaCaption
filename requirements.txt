@@ -1,0 +1,9 @@
+langchain,
+langchain-core,
+langchain-groq
+pillow
+python-dotenv
+streamlit
+torch
+torchvision
+transformers
