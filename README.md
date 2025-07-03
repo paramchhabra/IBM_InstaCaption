@@ -70,4 +70,6 @@ Visit the app on your browser using the localhost URL provided by Streamlit, e.g
 3. The system will generate a caption, the user can alter the caption acc to their demands.
 
 ## Screenshots
-
+Here are a few sample screenshots:
+![Image1](proj1.png)
+![Image2](proj2.png)
